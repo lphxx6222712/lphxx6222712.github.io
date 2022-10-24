@@ -2,14 +2,12 @@
 title: "Self-supervised patient-specific features learning for OCT image classification"
 collection: publications
 permalink: https://link.springer.com/10.1007/s11517-022-02627-8
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022/10
+venue: 'Medical & Biological Engineering & Computing'
+paperurl: 'https://link.springer.com/10.1007/s11517-022-02627-8'
+citation: 'L. Fang, J. Guo, X. He, and M. Li, “Self-supervised patient-specific features learning for OCT image classification,” Med Biol Eng Comput, vol. 60, no. 10, pp. 2851–2863, Oct. 2022, doi: 10.1007/s11517-022-02627-8.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: L. Fang, J. Guo, X. He, and M. Li, “Self-supervised patient-specific features learning for OCT image classification,” Med Biol Eng Comput, vol. 60, no. 10, pp. 2851–2863, Oct. 2022, doi: 10.1007/s11517-022-02627-8.
