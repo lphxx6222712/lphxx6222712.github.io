@@ -16,17 +16,17 @@ Education
 * Ph.D in Control science and engineering, Hunan University, Changsha, China, 2018-2022
 * Visiting Ph.D student, University of Trento, Trento, Italy, 2021-2022
 
-;Work experience
-;======
-;* Summer 2015: Research Assistant
-;  * Github University
-;  * Duties included: Tagging issues
-;  * Supervisor: Professor Git
+#Work experience
+#======
+#* Summer 2015: Research Assistant
+#  * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
 
-;* Fall 2015: Research Assistant
-;  * Github University
-;  * Duties included: Merging pull requests
-;  * Supervisor: Professor Hub
+#* Fall 2015: Research Assistant
+#  * Github University
+#  * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
   
 Skills
 ======
