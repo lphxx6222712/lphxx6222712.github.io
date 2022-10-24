@@ -2,7 +2,7 @@
 title: "Self-supervised patient-specific features learning for OCT image classification"
 collection: publications
 permalink: https://link.springer.com/10.1007/s11517-022-02627-8
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022/10
 venue: 'Medical & Biological Engineering & Computing'
 paperurl: 'https://link.springer.com/10.1007/s11517-022-02627-8'
