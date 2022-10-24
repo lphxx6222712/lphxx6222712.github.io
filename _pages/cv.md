@@ -23,7 +23,6 @@ Skills
   * Pytorch
   * Tensorflow
 * Matlab
-* C/C++
 
 Publications
 ======
