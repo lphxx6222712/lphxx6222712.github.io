@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xingxin He"
   avatar           : "profile.png"
-  bio              : "I'm currently a postdoc research fellow at HMS/MGH. My research interest lies in applying artificial intelligence (AI) techniques for novel MRI acquisition, reconstruction, processing, and analysis. The specific research topics include AI-based RF pulse design, rapid MRI reconstruction, and multi-modal MRI image segmentation. That is to bridge state-of-art AI and the demand for MRI research. "
+  bio              : 
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=bHSKDuYAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-3790-7373"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
